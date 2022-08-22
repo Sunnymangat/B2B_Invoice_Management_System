@@ -1,11 +1,17 @@
 The objective of the web application development internship is:
 
 To build a Full-stack Invoice Management Application using ReactJs, JDBC, Java, Servlets.
+
 Build a responsive Receivables Dashboard.
+
 Visualize Data in form of grids.
+
 Visualize Data in form of graphs.
+
 Perform Searching operations on the invoices.
+
 Add & Edit data in the editable fields of the grid.
+
 Delete data of selected rows in predefined templates.
 
 ![Image_1 ( Main UI )](https://user-images.githubusercontent.com/66839015/185888592-49de0b3d-d256-47e3-adc5-88b1a82dc6ef.png)
